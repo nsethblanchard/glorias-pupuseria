@@ -3,9 +3,7 @@ import classes from "./MealsSummary.module.css";
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>
-        To Order, call us at (540) 487-2428 or online <link>here.</link>
-      </h2>
+      <h2>To Order, call us at (540) 487-2428 or online here.</h2>
       <p>
         Gloria's Pupuseria has been serving authentic Salvadoran-style food in
         Staunton, Virginia since 2013. We like to think of our food as an

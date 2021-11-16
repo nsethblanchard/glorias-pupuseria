@@ -11,9 +11,9 @@ const MealItem = (props) => {
         <h3>{props.name}</h3>
         <div className={classes.description}>{props.description}</div>
         <div className={classes.price_box}>
-          <div className={classes.price}>{singlePrice}</div>
+          <div className={classes.price_single}>{singlePrice}/single</div>
 
-          <div className={classes.price}>{triplePrice}</div>
+          <div className={classes.price_triple}>{triplePrice}/for three</div>
         </div>
       </div>
       <div></div>

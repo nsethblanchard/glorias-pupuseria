@@ -1,0 +1,216 @@
+[
+  {
+    "pupusas": [
+      {
+        "name": "Loca",
+        "description": "Filled with chicharron, chicken, beans, veggies and cheese.",
+        "single_price": 4.5,
+        "price_for_3": 12
+      },
+      {
+        "name": "Chicken",
+        "description": "Filled with Chicken, veggies and cheese.",
+        "single_price": 4.5,
+        "price_for_3": 12
+      },
+      {
+        "name": "Revuelta",
+        "description": "Filled with chicharron, beans and cheese.",
+        "single_price": 4,
+        "price_for_3": 11
+      },
+      {
+        "name": "Chorizo",
+        "description": "Filled with chorizo and cheese.",
+        "single_price": 4.5,
+        "price_for_3": 12
+      },
+      {
+        "name": "Shrimp",
+        "description": "Filled with shrimp cooked with tomatoes, onions and spices. (With or without cheese)",
+        "single_price": 4.5,
+        "price_for_3": 12
+      },
+      {
+        "name": "Veggie",
+        "description": "Filled with a mix of zucchini, yellow squash, carrots, onions, spinach and cheese.",
+        "single_price": 3.75,
+        "price_for_3": 11
+      },
+      {
+        "name": "Vegan",
+        "description": "Filled with zucchini, yellow squash, carrots, onions and spinach.",
+        "single_price": 4,
+        "price_for_3": 11.5
+      },
+      {
+        "name": "Beans",
+        "description": "Filled with beans and cheese.",
+        "single_price": 3.75,
+        "price_for_3": 10.5
+      },
+      {
+        "name": "Loroco",
+        "description": "Central American native vining flowers mix with cheese.",
+        "single_price": 3.5,
+        "price_for_3": 10
+      },
+      {
+        "name": "Jalapeno and Cheese",
+        "description": "Filled with spicy jalapeno peppers with cheese.",
+        "single_price": 3.5,
+        "price_for_3": 10
+      },
+      {
+        "name": "Queso",
+        "description": "Filled with lots and lots of cheese.",
+        "single_price": 3.25,
+        "price_for_3": 9
+      }
+    ],
+
+    "other_salv_dishes": [
+      {
+        "name": "Yuca Con Chicharron",
+        "description": "Chunks of fried pork served over yuca frita, curtido and our signature yuca sauce.",
+        "price": 9.5
+      },
+      {
+        "name": "Carne Guisada",
+        "description": "Salvadoran style stewed beef and vegetables served with rice, salad and 2 tortillas.",
+        "price": 12
+      },
+      {
+        "name": "Pollo Guisada",
+        "description": "Salvadoran style stewed chicken and vegetables served with rice, salad and 2 tortillas.",
+        "price": 11
+      },
+      {
+        "name": "Tamale",
+        "description": "A steamed pocket of specially prepared corn masa filled with chicken and potatoes wrapped in a plantain leaf served with curtido and salsa.",
+        "price": 3.5
+      },
+      {
+        "name": "Pasteles",
+        "description": "Three corn flour turnovers filled with picado de carne (ground beef and vegetables), chicken or veggies served over lettuce salad and sauce.",
+        "price": 9.5
+      },
+      {
+        "name": "Salvadoran Enchiladas",
+        "description": "Three handmade crisped fried tortillas topped with picado de carne, chicken or veggies, fresh salad, avocado, hardboiled egg and shredded queso duro.",
+        "price": 10.5
+      }
+    ],
+
+    "kids_meals": [
+      { "price": 5.99 },
+      {
+        "kids_main": [
+          {
+            "name": "Chicken and Cheese"
+          },
+          {
+            "name": "Beans and Cheese"
+          },
+          {
+            "name": "Cheese"
+          }
+        ],
+        "kids_sides": [
+          {
+            "name": "Broccoli"
+          },
+          {
+            "name": "Fries"
+          },
+          {
+            "name": "Fresh fruit"
+          },
+          {
+            "name": "Curtido"
+          }
+        ],
+        "kids_drinks": [
+          {
+            "name": "Chocolate Milk"
+          },
+          {
+            "name": "Juice Box"
+          }
+        ]
+      }
+    ],
+    "sides": [
+      { "name": "Chips and Salsa", "price": 5 },
+      { "name": "Chips and Guacamole", "price": 6.25 },
+      { "name": "Platanos Fritos", "price": 3.5 },
+      { "name": "Yuca Frita", "price": 4 },
+      { "name": "Side De Frijoles(beans)", "price": 2.5 },
+      { "name": "Side De Arroz(rice)", "price": 2.5 },
+      { "name": "Casamiento(Salvadoran style Rice and Beans)", "price": 4 }
+    ],
+    "house_drinks": [
+      {
+        "name": "Horchata de Morro",
+        "description": "Traditional Salvadoran drink with ground morro seeds, rice and milk",
+        "price": 3
+      },
+      {
+        "name": "Ensalada",
+        "description": "Mango and pineapple fresco w/ diced fruit ",
+        "price": 3
+      },
+      {
+        "name": "Tamarindo",
+        "description": "Sweet and sour tamarindo fresco ",
+        "price": 3
+      }
+    ],
+    "other_drinks": [
+      {
+        "name": "Jarritos",
+        "price": 2.25
+      },
+      {
+        "name": "Coca-Cola in a Bottle",
+        "price": 2.25
+      },
+      {
+        "name": "Canned Sodas",
+        "price": 1.25
+      },
+      {
+        "name": "San Pelligrino Sparkling Water",
+        "price": 1.75
+      },
+      {
+        "name": "Coffee",
+        "price": 2.25
+      },
+      {
+        "name": "Bottled Water",
+        "price": 1
+      }
+    ],
+    "soups": [
+      {
+        "name": "Veggie Tortilla Soup",
+        "description": "Delicious creamy soup made with shredded vegetables topped with tortilla strips, cheese and cilantro.",
+        "price_per_cup": 4.5,
+        "price_per_bowl": 5.5
+      }
+    ],
+    "desserts": [
+      {
+        "name": "Tres Leches",
+        "description": "Authentic Central America delicious moist three milk cake.",
+        "price": 4.5
+      },
+      {
+        "name": "Flan",
+        "description": "Caramel sauce glazed custard.",
+        "price": 3.5
+      }
+    ]
+  }
+]

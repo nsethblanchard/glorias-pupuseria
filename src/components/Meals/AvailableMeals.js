@@ -1,4 +1,5 @@
 import React from "react";
+import Card from "../UI/Card";
 import Menu from "./Menu";
 import classes from "./AvailableMeals.module.css";
 
@@ -8,7 +9,9 @@ function AvailableMeals() {
   return (
     <section className={classes.meals}>
       <h2>Signature Pupusas</h2>
-      <ul>{pupusas}</ul>
+      <Card>
+        <ul>{pupusas}</ul>
+      </Card>
     </section>
   );
 }

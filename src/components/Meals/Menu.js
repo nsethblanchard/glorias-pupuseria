@@ -130,72 +130,43 @@ const menu = [
     ],
 
     kids_meals: [
-      { price: 5.99 },
       {
-        kids_main: [
-          {
-            name: "Chicken and Cheese",
-          },
-          {
-            name: "Beans and Cheese",
-          },
-          {
-            name: "Cheese",
-          },
-        ],
-        kids_sides: [
-          {
-            name: "Broccoli",
-          },
-          {
-            name: "Fries",
-          },
-          {
-            name: "Fresh fruit",
-          },
-          {
-            name: "Curtido",
-          },
-        ],
-        kids_drinks: [
-          {
-            name: "Chocolate Milk",
-          },
-          {
-            name: "Juice Box",
-          },
-        ],
+        id: "18",
+        name: "Meals for the kiddos",
+        description:
+          "Choose between a Chicken and Cheese, Beans and Cheese, or Cheese Pupusa. Comes with a side of Broccoli, Fries, Fresh Fruit, or Curtido as well as a drink (Chocolate Milk or a juice box)",
+        price: 5.99,
       },
     ],
     sides: [
-      { id: "18", name: "Chips and Salsa", price: 5 },
-      { id: "19", name: "Chips and Guacamole", price: 6.25 },
-      { id: "20", name: "Platanos Fritos", price: 3.5 },
-      { id: "21", name: "Yuca Frita", price: 4 },
-      { id: "22", name: "Side De Frijoles(beans)", price: 2.5 },
-      { id: "23", name: "Side De Arroz(rice)", price: 2.5 },
+      { id: "19", name: "Chips and Salsa", price: 5 },
+      { id: "20", name: "Chips and Guacamole", price: 6.25 },
+      { id: "21", name: "Platanos Fritos", price: 3.5 },
+      { id: "22", name: "Yuca Frita", price: 4 },
+      { id: "23", name: "Side De Frijoles(beans)", price: 2.5 },
+      { id: "24", name: "Side De Arroz(rice)", price: 2.5 },
       {
-        id: "24",
+        id: "25",
         name: "Casamiento(Salvadoran style Rice and Beans)",
         price: 4,
       },
     ],
     house_drinks: [
       {
-        id: "25",
+        id: "26",
         name: "Horchata de Morro",
         description:
           "Traditional Salvadoran drink with ground morro seeds, rice and milk",
         price: 3,
       },
       {
-        id: "26",
+        id: "27",
         name: "Ensalada",
         description: "Mango and pineapple fresco w/ diced fruit ",
         price: 3,
       },
       {
-        id: "27",
+        id: "28",
         name: "Tamarindo",
         description: "Sweet and sour tamarindo fresco ",
         price: 3,
@@ -203,39 +174,39 @@ const menu = [
     ],
     other_drinks: [
       {
-        id: "28",
+        id: "29",
         name: "Jarritos",
         price: 2.25,
       },
       {
-        id: "29",
+        id: "30",
         name: "Coca-Cola in a Bottle",
         price: 2.25,
       },
       {
-        id: "30",
+        id: "31",
         name: "Canned Sodas",
         price: 1.25,
       },
       {
-        id: "31",
+        id: "32",
         name: "San Pelligrino Sparkling Water",
         price: 1.75,
       },
       {
-        id: "32",
+        id: "33",
         name: "Coffee",
         price: 2.25,
       },
       {
-        id: "33",
+        id: "34",
         name: "Bottled Water",
         price: 1,
       },
     ],
     soups: [
       {
-        id: "34",
+        id: "35",
         name: "Veggie Tortilla Soup",
         description:
           "Delicious creamy soup made with shredded vegetables topped with tortilla strips, cheese and cilantro.",
@@ -245,14 +216,14 @@ const menu = [
     ],
     desserts: [
       {
-        id: "35",
+        id: "36",
         name: "Tres Leches",
         description:
           "Authentic Central America delicious moist three milk cake.",
         price: 4.5,
       },
       {
-        id: "36",
+        id: "37",
         name: "Flan",
         description: "Caramel sauce glazed custard.",
         price: 3.5,

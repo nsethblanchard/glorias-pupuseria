@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
 import headerPic from "../../assets/Gloria's.jpg";
 import classes from "./Header.module.css";
+
 import HeaderCartButton from "./HeaderCartButton";
 
 const Header = (props) => {
